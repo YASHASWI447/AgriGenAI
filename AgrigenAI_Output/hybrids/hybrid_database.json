@@ -1,0 +1,266 @@
+{
+  "vnr_hybrid_tomato": {
+    "name": "VNR Hybrid Tomato",
+    "parent_genotypes": ["G1", "G2"],
+    "maturity_days": 65,
+    "yield_potential": "High",
+    "traits": {
+      "yield": "High",
+      "disease_resistance": "Resistant",
+      "stress_tolerance": "High"
+    },
+    "description": "High-yielding hybrid with excellent disease resistance and stress tolerance"
+  },
+  "sunvara_f1": {
+    "name": "Sunvara F1",
+    "parent_genotypes": ["G3", "G4"],
+    "maturity_days": 70,
+    "yield_potential": "High",
+    "traits": {
+      "yield": "High",
+      "disease_resistance": "Resistant",
+      "stress_tolerance": "Medium"
+    },
+    "description": "Premium hybrid with superior yield and disease resistance"
+  },
+  "syngenta_tomato": {
+    "name": "Syngenta Hybrid Tomato",
+    "parent_genotypes": ["G5", "G10"],
+    "maturity_days": 68,
+    "yield_potential": "Medium-High",
+    "traits": {
+      "yield": "High",
+      "disease_resistance": "Moderate",
+      "stress_tolerance": "High"
+    },
+    "description": "Balanced hybrid with good stress tolerance and moderate disease resistance"
+  },
+  "hisar_arun": {
+    "name": "Hisar Arun",
+    "parent_genotypes": ["G2", "G6"],
+    "maturity_days": 72,
+    "yield_potential": "High",
+    "traits": {
+      "yield": "High",
+      "disease_resistance": "Moderate",
+      "stress_tolerance": "Medium"
+    },
+    "description": "Indian hybrid developed for heat tolerance with high yields"
+  },
+  "arka_samrat": {
+    "name": "Arka Samrat",
+    "parent_genotypes": ["G1", "G5"],
+    "maturity_days": 75,
+    "yield_potential": "Medium",
+    "traits": {
+      "yield": "Medium",
+      "disease_resistance": "Resistant",
+      "stress_tolerance": "High"
+    },
+    "description": "Hardy hybrid resistant to bacterial wilt and early blight"
+  },
+  "arka_vikash": {
+    "name": "Arka Vikash",
+    "parent_genotypes": ["G4", "G11"],
+    "maturity_days": 70,
+    "yield_potential": "Medium-High",
+    "traits": {
+      "yield": "High",
+      "disease_resistance": "Moderate",
+      "stress_tolerance": "Medium"
+    },
+    "description": "Good all-rounder hybrid with moderate disease resistance"
+  },
+  "pant_bahar": {
+    "name": "Pant Bahar",
+    "parent_genotypes": ["G10", "G13"],
+    "maturity_days": 80,
+    "yield_potential": "Medium",
+    "traits": {
+      "yield": "Medium",
+      "disease_resistance": "Moderate",
+      "stress_tolerance": "High"
+    },
+    "description": "Off-season tomato variety with good heat and drought tolerance"
+  },
+  "benaglore_green": {
+    "name": "Bangalore Green",
+    "parent_genotypes": ["G12", "G19"],
+    "maturity_days": 85,
+    "yield_potential": "Medium",
+    "traits": {
+      "yield": "Medium",
+      "disease_resistance": "Resistant",
+      "stress_tolerance": "Medium"
+    },
+    "description": "Traditional variety with excellent disease resistance"
+  },
+  "roma_vf": {
+    "name": "Roma VF",
+    "parent_genotypes": ["G3", "G12"],
+    "maturity_days": 75,
+    "yield_potential": "Medium",
+    "traits": {
+      "yield": "Medium",
+      "disease_resistance": "Resistant",
+      "stress_tolerance": "Low"
+    },
+    "description": "Processing variety with high disease resistance for canning"
+  },
+  "miracle_f1": {
+    "name": "Miracle F1",
+    "parent_genotypes": ["G2", "G11"],
+    "maturity_days": 68,
+    "yield_potential": "High",
+    "traits": {
+      "yield": "High",
+      "disease_resistance": "Resistant",
+      "stress_tolerance": "High"
+    },
+    "description": "Premium F1 hybrid with excellent all-round performance"
+  },
+  "namdhari_bhagya": {
+    "name": "Namdhari Bhagya",
+    "parent_genotypes": ["G4", "G9"],
+    "maturity_days": 72,
+    "yield_potential": "High",
+    "traits": {
+      "yield": "High",
+      "disease_resistance": "Moderate",
+      "stress_tolerance": "High"
+    },
+    "description": "High-yielding hybrid with excellent stress tolerance"
+  },
+  "shahin_f1": {
+    "name": "Shahin F1",
+    "parent_genotypes": ["G1", "G10"],
+    "maturity_days": 70,
+    "yield_potential": "High",
+    "traits": {
+      "yield": "High",
+      "disease_resistance": "Resistant",
+      "stress_tolerance": "High"
+    },
+    "description": "Super hybrid with superior performance across all traits"
+  },
+  "lakshmi_tomato": {
+    "name": "Lakshmi Tomato",
+    "parent_genotypes": ["G5", "G14"],
+    "maturity_days": 75,
+    "yield_potential": "Medium",
+    "traits": {
+      "yield": "Medium",
+      "disease_resistance": "Moderate",
+      "stress_tolerance": "Medium"
+    },
+    "description": "Versatile hybrid for various growing conditions"
+  },
+  "pushpak_f1": {
+    "name": "Pushpak F1",
+    "parent_genotypes": ["G3", "G11"],
+    "maturity_days": 70,
+    "yield_potential": "High",
+    "traits": {
+      "yield": "High",
+      "disease_resistance": "Resistant",
+      "stress_tolerance": "Medium"
+    },
+    "description": "High-yielding F1 hybrid with excellent disease resistance"
+  },
+  "rashmi_f1": {
+    "name": "Rashmi F1",
+    "parent_genotypes": ["G2", "G13"],
+    "maturity_days": 68,
+    "yield_potential": "High",
+    "traits": {
+      "yield": "High",
+      "disease_resistance": "Moderate",
+      "stress_tolerance": "High"
+    },
+    "description": "Attractive fruits with good stress tolerance and high yields"
+  },
+  "kashi_vikas": {
+    "name": "Kashi Vikas",
+    "parent_genotypes": ["G6", "G12"],
+    "maturity_days": 75,
+    "yield_potential": "Medium",
+    "traits": {
+      "yield": "Medium",
+      "disease_resistance": "Resistant",
+      "stress_tolerance": "Medium"
+    },
+    "description": "Compact plant with resistant to bacterial wilt"
+  },
+  "meghdoot": {
+    "name": "Meghdoot",
+    "parent_genotypes": ["G10", "G15"],
+    "maturity_days": 80,
+    "yield_potential": "Medium",
+    "traits": {
+      "yield": "Medium",
+      "disease_resistance": "Moderate",
+      "stress_tolerance": "High"
+    },
+    "description": "Monsoon variety with excellent heat and humidity tolerance"
+  },
+  "maxima_f1": {
+    "name": "Maxima F1",
+    "parent_genotypes": ["G4", "G8"],
+    "maturity_days": 70,
+    "yield_potential": "High",
+    "traits": {
+      "yield": "High",
+      "disease_resistance": "Moderate",
+      "stress_tolerance": "Medium"
+    },
+    "description": "Large fruited F1 hybrid with high market appeal"
+  },
+  "selection_117": {
+    "name": "Selection 117",
+    "parent_genotypes": ["G7", "G16"],
+    "maturity_days": 78,
+    "yield_potential": "Medium",
+    "traits": {
+      "yield": "Medium",
+      "disease_resistance": "Moderate",
+      "stress_tolerance": "Medium"
+    },
+    "description": "Improved open-pollinated variety with balanced traits"
+  },
+  "solan_ghanta": {
+    "name": "Solan Ghanta",
+    "parent_genotypes": ["G14", "G20"],
+    "maturity_days": 85,
+    "yield_potential": "Low-Medium",
+    "traits": {
+      "yield": "Medium",
+      "disease_resistance": "Resistant",
+      "stress_tolerance": "Low"
+    },
+    "description": "Traditional bell-shaped variety with excellent flavor"
+  },
+  "monica_f1": {
+    "name": "Monica F1",
+    "parent_genotypes": ["G1", "G4"],
+    "maturity_days": 68,
+    "yield_potential": "High",
+    "traits": {
+      "yield": "High",
+      "disease_resistance": "Resistant",
+      "stress_tolerance": "High"
+    },
+    "description": "Premium quality F1 with exceptional disease resistance"
+  },
+  "premium_plus": {
+    "name": "Premium Plus",
+    "parent_genotypes": ["G3", "G5"],
+    "maturity_days": 70,
+    "yield_potential": "High",
+    "traits": {
+      "yield": "High",
+      "disease_resistance": "Resistant",
+      "stress_tolerance": "Medium"
+    },
+    "description": "Superior hybrid with premium fruit quality and yield"
+  }
+}
